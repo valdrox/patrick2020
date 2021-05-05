@@ -28,4 +28,4 @@ initSr();
 initTilt();
 
 // uncomment this if you want to attach your resume
-addResume(resume);
+// addResume(resume);
